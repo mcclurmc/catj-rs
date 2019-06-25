@@ -1,0 +1,10 @@
+[package]
+name = "catj-rs"
+version = "0.1.0"
+authors = ["Mike McClurg <mike.mcclurg@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "*"
+colored = "*"
+json = "*"
